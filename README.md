@@ -1,32 +1,45 @@
-# 👨‍💻 Jvbrl
+# 😎OI! Prazer, me chamo João Victor  !
 
-🎯 *Back-End Developer | Robotics Enthusiast*
+Sou Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos, atualmente morando em Campina Grande-PB🎍
 
-Bem-vindo ao meu espaço no GitHub! Aqui você encontrará projetos que combinam criatividade, performance e estrutura sólida — desde aplicações web modernas até sistemas complexos desenvolvidos para resolver algum problema real
+- 🔭 Atualmente estou estudando e codando alguns projetos para facilitar problemas reais
+- 🌱 Começando a estudar Java & docker
 ---
 
-## 🧠 Sobre Mim
+🤖Tecnologias que uso atualmente
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+</div><br>
 
-Sou um desenvolvedor back-end apaixonado por criar e solucionar problemas com aplicações. Atuo desde a concepção de sistemas até a manutenção, refatoração e otimização de códigos existentes.
-
-### ⚙️ Stack Principal
-
-- **Frontend**: HTML5, CSS3 (Tailwind, Sass), JavaScript (ES6+)
-- **Backend**: Node.js, PHP (Laravel, Vanilla), Java, python C#
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Git, CI/CD
-
----
-
-## 🚀 O que você vai encontrar por aqui
-
-📦 **Aplicações para solucionar problemas reais**  
-> Criação, manutenção e aprimoramento de aplicações para resolver problemas reais — focados em performance, estabilidade e experiência do usuario.
-
-🌐 **Aplicações Web**  
-> Interfaces modernas, responsivas e elegantes com foco em usabilidade.
-
-📁 **Projetos Open Source & Colaborações**  
-> Projetos onde compartilho conhecimento, ideias e inovação com a comunidade.
+<div> 
+  <a href="https://instagram.com/jvbrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaovictorbrittodasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/devjvictor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
+
+📊Estatisticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=oaojdev&show_icons=true&theme=algolia"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaojdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
