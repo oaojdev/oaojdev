@@ -1,6 +1,6 @@
 # 😎OI! Prazer, me chamo João Victor  !
 
-Sou Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos, atualmente morando em Campina Grande-PB🎍
+Sou Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos
 
 - 🔭 Atualmente estou estudando e codando alguns projetos para facilitar problemas reais
 - 🌱 Começando a estudar Java & docker
@@ -8,11 +8,10 @@ Sou Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos, atu
 
 🤖Tecnologias que uso atualmente
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="jv-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="jv-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
 </div><br>
 
 <div> 
