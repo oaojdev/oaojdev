@@ -1,6 +1,6 @@
 # 😎OI! Prazer, me chamo João Victor  !
 
-Sou Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos
+Estudante de ADS (Analise e desenvolvimento de sistemas), tenho 19 anos
 
 - 🔭 Atualmente estou estudando e codando alguns projetos para facilitar problemas reais
 - 🌱 Começando a estudar Java & docker
